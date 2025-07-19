@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Implementation Guide and Complete Code for Blockchain-Enabled Content Management System (CMS) for Secure Web Publishing
 
 This guide provides you with all essential code components and explanations to implement your **Blockchain-Enabled CMS**, covering wallet login, content hashing, NFT minting, offline signing, decentralized storage with IPFS, and immutable edit tracking.
