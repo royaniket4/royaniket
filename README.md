@@ -1,4 +1,4 @@
-# ️ Hi, I'm [Aniket Roy] — Cybersecurity Enthusiast
+# ️ Hi, I'm Aniket Roy — Cybersecurity Enthusiast
 
 ## ‍ About Me
 I'm a cybersecurity professional passionate about securing systems, networks, and applications.  
@@ -24,8 +24,6 @@ I enjoy exploring vulnerabilities, penetration testing, and staying ahead in the
 
 ## 易 Certifications & Learning
 - [ ] TryHackMe / Hack The Box Active User
-- [ ] OSCP *(planned / completed)*
-
 ##  GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=royaniket4&show_icons=true&theme=tokyonight)
