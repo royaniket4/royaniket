@@ -1,6 +1,6 @@
-# ️ Hi, I'm Aniket Roy — Cybersecurity Enthusiast
+# Hi, I'm Aniket Roy — Cybersecurity Enthusiast
 
-## ‍ About Me
+##  About Me
 I'm a cybersecurity professional passionate about securing systems, networks, and applications.  
 I enjoy exploring vulnerabilities, penetration testing, and staying ahead in the ever-evolving security landscape.
 
